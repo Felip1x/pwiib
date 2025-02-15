@@ -10,7 +10,7 @@
     <a href="contato.php">Pagina de contato</a>
 
     <?php
-        echo "<h1>Título do projeto PWII B</h1>";
+        echo "<h1>Primeiro projeto PWII B 2°modulo</h1>";
     ?>
 
 </body>
