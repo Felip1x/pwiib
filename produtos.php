@@ -8,7 +8,7 @@
 </head>
 <body>
     <a href="index.php">Página Inicial</a>
-    <a href="contatos.php">Entre em contato</a>
+    <a href="contato.php">Entre em contato</a>
     <h1>Lista de produtos</h1>
     <ol>
         <?php
